@@ -88,12 +88,12 @@ body {
 }
 
 span {
-    font-size: 3rem;
+    font-size: 5rem;
     color: var(--main-color);
 }
 
 .home-content h3 {
-    font-size: 3rem;
+    font-size: 5rem;
     font-weight: 700;
 }
 
