@@ -172,7 +172,7 @@ span {
 }
 
 .about-img img {
-    height: 45vh;
+    height: 80vh;
     border-radius: 25%;
     animation: floatimage 4s ease-in-out infinite;
 }
@@ -263,7 +263,7 @@ span {
     box-shadow: 0 0 1rem var(--main-color);
 }
 .porto-box img{
-    width: 111%;
+    width: 100%;
     transition: .5s ease ;
 }
 .porto-box img:hover{
