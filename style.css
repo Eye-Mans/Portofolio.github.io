@@ -259,12 +259,11 @@ span {
 .porto-container .porto-box{
     position: relative;
     overflow: hidden;
-    border-radius: 2rem;
     box-shadow: 0 0 1rem var(--main-color);
 }
 .porto-box img{
     width: 100%;
-    transition: .5s ease ;
+    transition: .5s ;
 }
 .porto-box img:hover{
    transform:scale(1.1);
@@ -444,7 +443,8 @@ span {
         flex-direction: column;
     }
     .about-img img{
-        
+        height: auto;
+        width: 70vw;
         margin-top: 4rem;
     }
     .services h2{
